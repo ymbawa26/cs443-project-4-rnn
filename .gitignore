@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.cache/
+export/
+
+# Large course dataset. Download with scripts/download_data.sh.
+data/imdb_raw.csv
